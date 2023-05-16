@@ -1,0 +1,26 @@
+{
+    "language": "Indonesia",
+    "@language":{
+        "description": "The current Language"
+    },
+
+    "helloWorld" : "Halo Dunia!",
+    "@helloWorld":{
+        "description": "A programmer greeting"
+    },
+    
+    "multiLanguage" : "Multi Bahasa",
+    "@multiLanguage":{
+        "description": "App title"
+    },
+    
+    "hello" : "Halo {username}",
+    "@hello":{
+        "description": "A welcome message",
+        "placeholders":{
+            "username":{
+                "type": "String"
+            }
+        }
+    }
+}
